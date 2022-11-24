@@ -1,4 +1,4 @@
-![Tarumzu's github stats](https://github-readme-stats.vercel.app/api?username=tarumzu&show_icons=true)
+![Tarumzu's github stats](https://github-readme-stats.vercel.app/api?username=tarumzu&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarumzu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/tarumzu/posts.svg)](http://qiita.com/tarumzu)
